@@ -13,7 +13,7 @@ Test Teardown     common.This is test teardown
 #     feature.Verify credit error msg display on screen
 
 TC-002 - Open web, verify loan evaluation section functional and error msg
-    [Tags]    TC002
+    [Tags]    TC-002
     home_page_page.Click loan evaluation button
     loan_evaluation_feature.Select fulltime staff
     loan_evaluation_feature.Select monthly installment
