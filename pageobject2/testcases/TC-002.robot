@@ -12,11 +12,11 @@ Test Teardown     common.This is test teardown
 #     feature.Input user salary and credit line        25000    500000
 #     feature.Verify credit error msg display on screen
 
-TC-002 - Open web, verify loan evaluation section and click loan evaluation button
+TC-002 - Open web, verify loan evaluation section functional and error msg
     [Tags]    TC002
     home_page_page.Click loan evaluation button
     loan_evaluation_feature.Select fulltime staff
-    loan_evaluation_feature.Select type2
+    loan_evaluation_feature.Select monthly installment
     loan_evaluation_feature.Select Speedy Loan   
     loan_evaluation_feature.Input user salary and credit line
     loan_evaluation_feature.Verify credit error msg display on screen

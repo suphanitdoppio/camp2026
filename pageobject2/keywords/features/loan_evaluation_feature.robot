@@ -15,7 +15,7 @@ Select fulltime staff
     loan_evaluation_page.Click career selector button
     loan_evaluation_page.Click fulltime staff value
 
-Select type2
+Select monthly installment
     loan_evaluation_page.Click result selector button
     loan_evaluation_page.Click type2 value
 
